@@ -17,7 +17,7 @@
 }
 
 .titleName {
-    color: #41454a;
+    color: linear-gradient(115deg, #56d8e4 10%, #9f01ea 90%);
     font-weight: 600;
     font-family: "Montserrat", sans-serif;
     margin-left: 10px;
@@ -133,3 +133,6 @@ mat-divider {
     text-decoration: none; 
     margin-top: 10px;
 }
+// .logOut{
+//     cursor: pointer;
+// }
